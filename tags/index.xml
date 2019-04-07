@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on moya4monja blog</title>
-    <link>https%EF%BC%9A//moya4monja.github.io/tags/</link>
+    <link>https://moya4monja.github.io/tags/</link>
     <description>Recent content in Tags on moya4monja blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <managingEditor>moyasimonja@gmail.com (moya4monja)</managingEditor>
     <webMaster>moyasimonja@gmail.com (moya4monja)</webMaster>
     
-	<atom:link href="https%EF%BC%9A//moya4monja.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://moya4monja.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
