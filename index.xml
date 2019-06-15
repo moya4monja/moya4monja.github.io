@@ -8,10 +8,19 @@
     <language>ja-jp</language>
     <managingEditor>moyasimonja@gmail.com (moya4monja)</managingEditor>
     <webMaster>moyasimonja@gmail.com (moya4monja)</webMaster>
-    <lastBuildDate>Mon, 08 Apr 2019 14:53:17 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2019 20:03:14 +0900</lastBuildDate>
     
 	<atom:link href="https://moya4monja.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>190615_01</title>
+      <link>https://moya4monja.github.io/2019/06/15/190615_01/</link>
+      <pubDate>Sat, 15 Jun 2019 20:03:14 +0900</pubDate>
+      <author>moyasimonja@gmail.com (moya4monja)</author>
+      <guid>https://moya4monja.github.io/2019/06/15/190615_01/</guid>
+      <description>本日は、以下を実施 * 中国語教室の授業を受講 * スタートアップカフェで、証券発注用のプログラムを修正 * SMBC日興証券用の売買処理が動かなくなっ</description>
+    </item>
     
     <item>
       <title>190408_02</title>
