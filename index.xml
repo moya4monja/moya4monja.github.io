@@ -8,10 +8,19 @@
     <language>ja-jp</language>
     <managingEditor>moyasimonja@gmail.com (moya4monja)</managingEditor>
     <webMaster>moyasimonja@gmail.com (moya4monja)</webMaster>
-    <lastBuildDate>Tue, 18 Jun 2019 18:59:13 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 19:17:34 +0900</lastBuildDate>
     
 	<atom:link href="https://moya4monja.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ふくばねてす_02</title>
+      <link>https://moya4monja.github.io/2019/07/11/%E3%81%B5%E3%81%8F%E3%81%B0%E3%81%AD%E3%81%A6%E3%81%99_02/</link>
+      <pubDate>Thu, 11 Jul 2019 19:17:34 +0900</pubDate>
+      <author>moyasimonja@gmail.com (moya4monja)</author>
+      <guid>https://moya4monja.github.io/2019/07/11/%E3%81%B5%E3%81%8F%E3%81%B0%E3%81%AD%E3%81%A6%E3%81%99_02/</guid>
+      <description>概要 福岡のk8s勉強会 第2回目 - 場所：FGN(大名小学校跡地) - 日程：2019念7月11日(木) 19:20~ 発表 コンテナ移行におけるあれこれなんちゃら</description>
+    </item>
     
     <item>
       <title>190618_Pydata_勉強会</title>
