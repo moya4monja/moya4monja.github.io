@@ -8,10 +8,19 @@
     <language>ja-jp</language>
     <managingEditor>moyasimonja@gmail.com (moya4monja)</managingEditor>
     <webMaster>moyasimonja@gmail.com (moya4monja)</webMaster>
-    <lastBuildDate>Thu, 11 Jul 2019 19:17:34 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2019 18:54:43 +0900</lastBuildDate>
     
 	<atom:link href="https://moya4monja.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>190716_AWS_Fukuoka</title>
+      <link>https://moya4monja.github.io/2019/07/16/190716_aws_fukuoka.dev/</link>
+      <pubDate>Tue, 16 Jul 2019 18:54:43 +0900</pubDate>
+      <author>moyasimonja@gmail.com (moya4monja)</author>
+      <guid>https://moya4monja.github.io/2019/07/16/190716_aws_fukuoka.dev/</guid>
+      <description>概要 クラウドネイティブをお題目とした勉強会 - 会場：株式会社Fusic - 時間：19:00～21:00 - connpassのリンク - ハッシュタグは</description>
+    </item>
     
     <item>
       <title>ふくばねてす_02</title>
